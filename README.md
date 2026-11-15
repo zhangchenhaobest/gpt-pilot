@@ -1,3 +1,29 @@
+# gpt-pilot
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The first real AI developer
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+首个真正的 AI 开发者。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 > [!CAUTION]
 > **Malicious code was found in this repository and has been removed.** A supply-chain worm (a credential stealer) was hidden in `core/telemetry/` from **August 2025** until **11 June 2026**. If you cloned and **ran** GPT Pilot from source during that window, **rotate your credentials** and read the security notice below.
 
